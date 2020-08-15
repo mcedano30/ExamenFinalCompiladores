@@ -1,6 +1,6 @@
 # Examen final: Compiladores
 
-Soy Carlos Polanco (19-0728)
+Michael Cedano (19-0891)
 
 ### Mandato
 
